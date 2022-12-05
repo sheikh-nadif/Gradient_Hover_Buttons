@@ -1,1 +1,9 @@
 # Gradient_Hover_Buttons
+
+#   #FFC312, #EE5A24, #FFC312
+
+#   #C4E538, #009432, #C4E538
+
+#   #12CBC4, #0652DD, #12CBC4
+
+#   #FDA7DF, #9980FA, #FDA7DF
